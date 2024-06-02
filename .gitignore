@@ -1,0 +1,6 @@
+/target
+.idea
+.vscode
+/firedbg
+/db1
+Cargo.lock
